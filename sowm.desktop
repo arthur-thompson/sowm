@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SOWM
+Comment=SOWM
+Exec=/usr/local/bin/startsowm
+Icon=
+Type=XSession
